@@ -1,0 +1,126 @@
+{
+  "uuid": "d7c132d4c6062bf9707c7e3f54a482bf",
+  "path": "Offline/MCP23S17-MCP23017%20Breakout%20Board",
+  "name": "MCP23S17-MCP23017 Breakout Board",
+  "content": "",
+  "created_at": "2023-01-02 14:45:58",
+  "updated_at": "2023-01-04 20:58:56",
+  "stick": "",
+  "documents": [
+    {
+      "uuid": "f57b441a194d562e7c7e2db49a6ec67e",
+      "title": "Sheet_1",
+      "description": "",
+      "docType": "1",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "565166ef9f9f49e0bb80a6a6178a5731": 1,
+        "4dd8e5004bac4eb1a16b3b145b69092a": 3,
+        "72ac005234074afaabbe8cfc607910c5": 12,
+        "1b42df64544f480e8e9bd8002968d8ad": 1
+      },
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ],
+        [
+          "PZ254V-11-03P_C2937625",
+          3,
+          "HDR-TH_3P-P2.54-V-M",
+          "H1,H2,H3",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Supplier Part": "C2937625",
+            "BOM_Manufacturer": "XFCN(台湾兴飞)",
+            "BOM_Manufacturer Part": "PZ254V-11-03P",
+            "BOM_JLCPCB Part Class": "Extended Part",
+            "puuid": "5c0be672313e4206a41dd5398a02f108",
+            "uuid": "4dd8e5004bac4eb1a16b3b145b69092a"
+          }
+        ],
+        [
+          "MCP23S17-E/SP",
+          1,
+          "DIP-28_L34.6-W7.3-P2.54-LS10.2-BL",
+          "U1",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer": "MICROCHIP(美国微芯)",
+            "BOM_Manufacturer Part": "MCP23S17-E/SP",
+            "BOM_Supplier Part": "C148096",
+            "BOM_JLCPCB Part Class": "Extended Part",
+            "puuid": "2f1d96128ab94db491eae99d61bfb39c",
+            "uuid": "565166ef9f9f49e0bb80a6a6178a5731"
+          }
+        ],
+        [
+          "YC0220500000G",
+          12,
+          "CONN-TH_YC0220500000G",
+          "U2,U4,U5,U6,U7,U8,U9,U10,U11,U12,U13,U14",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Supplier Part": "C2683165",
+            "BOM_Manufacturer": "Amphenol",
+            "BOM_Manufacturer Part": "YC0220500000G",
+            "BOM_JLCPCB Part Class": "Extended Part",
+            "puuid": "db6d9ff8fafd4fb0b9caa7b98e234013",
+            "uuid": "72ac005234074afaabbe8cfc607910c5"
+          }
+        ],
+        [
+          "YC0321500000G",
+          1,
+          "CONN-TH_YC0321500000G",
+          "U17",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Supplier Part": "C2683166",
+            "BOM_Manufacturer": "Amphenol",
+            "BOM_Manufacturer Part": "YC0321500000G",
+            "BOM_JLCPCB Part Class": "Extended Part",
+            "puuid": "d12b8b2d57004055afca4c1c80f6c3da",
+            "uuid": "1b42df64544f480e8e9bd8002968d8ad"
+          }
+        ]
+      ],
+      "updateTime": 1672794349,
+      "createTime": 1672688759,
+      "histories": [],
+      "created_at": "2023-01-02 14:45:59",
+      "updated_at": "2023-01-03 20:05:49"
+    },
+    {
+      "uuid": "53c18c9114ef83cb051529a8d9f907c8",
+      "puuid": "d7c132d4c6062bf9707c7e3f54a482bf",
+      "title": "PCB_MCP23S17-MCP23017 Breakout Board",
+      "filename": "PCB_MCP23S17-MCP23017 Breakout Board.json",
+      "description": "",
+      "docType": "3",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "5c0be672313e4206a41dd5398a02f108": 3,
+        "2f1d96128ab94db491eae99d61bfb39c": 1,
+        "db6d9ff8fafd4fb0b9caa7b98e234013": 12,
+        "d12b8b2d57004055afca4c1c80f6c3da": 1
+      },
+      "BOM": [],
+      "updateTime": 1672798195,
+      "createTime": 1672780494,
+      "histories": [],
+      "created_at": "2023-01-03 16:14:54",
+      "updated_at": "2023-01-03 21:09:55"
+    }
+  ],
+  "sort": [],
+  "title": "MCP23S17-MCP23017 Breakout Board",
+  "foldername": "MCP23S17-MCP23017 Breakout Board",
+  "schfilename": "MCP23S17-MCP23017 Breakout Board.json",
+  "schfilemtime": 1672794349824
+}
